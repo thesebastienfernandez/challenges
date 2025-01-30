@@ -1,7 +1,7 @@
 
 
 <script>
-    import '@picocss/pico';
+    import '@picocss/pico'
     import Card from './Card.svelte';
     import challenges from "/src/challenges.json"
     let name = "Seb"
@@ -11,22 +11,39 @@
     const addPoint = () => {
         points ++
     }
-    console.log(challenges.data)
 </script>
-<hgroup>
-    <h1 class="pico-color-cyan-200">Lethal Company Challenges</h1>
-    <p>{@html subtitle}</p>
-</hgroup>
-<p>Points de {name.toLocaleUpperCase()} : {points}</p>
-<button onclick={addPoint}> + </button>
-{#each challenges.data as challenge, index}
-<Card title={challenge.title} description={challenge.description}/>
-{/each}
-<img src={src} alt="lethal company wallpaper" />
+<header>
+    <hgroup>
+        <h1 class="pico-color-cyan-200">Lethal Company Challenges</h1>
+        <p>{@html subtitle}</p>
+    </hgroup>
+</header>
 <main>
-    
+    <span>
+        <p>Points de {name.toLocaleUpperCase()} : {points}</p>
+        <button onclick={addPoint}> + </button>
+    </span>
+    <section id="challenges">
+        {#each challenges.data as challenge, index}
+            <Card title={challenge.title} description={challenge.description} type={challenge.type} name={name}/>
+        {/each}
+    </section>
+    <section>
+        <img src={src} alt="lethal company wallpaper" />
+    </section>
 </main>
+
+
+
+
+
 <style>
+#challenges {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around; 
+    max-width: 100%;
+}
 p {
     font-style: italic;
 }

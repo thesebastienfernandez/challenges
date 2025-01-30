@@ -2,67 +2,83 @@
     "data": [
         {
             "title": "Jack le tueur de géants",
-            "description": "L'équipage arrive à tuer un géant"
+            "description": "L'équipage arrive à tuer un géant",
+            "type": "team"
         },
         {
             "title": "Je n’ai pas de bouche",
-            "description": "personne ne parle pendant toute une mission"
+            "description": "personne ne parle pendant toute une mission",
+            "type": "team"
         },
         {
             "title": "Potes pour la vie",
-            "description": "les membres font des binômes, ils ne doivent jamais se séparer, être assortis vestimentairement et ramener leur corps de leur collègue défunt ou sinon se suicider avec eux"
+            "description": "les membres font des binômes, ils ne doivent jamais se séparer, être assortis vestimentairement et ramener leur corps de leur collègue défunt ou sinon se suicider avec eux",
+            "type": "solo"
         },
         {
             "title": "Jackpot",
-            "description": "Ramener 1000$ d'objets à la fin d'une mission"
+            "description": "Ramener 1000$ d'objets à la fin d'une mission",
+            "type": "team"
         },
         {
             "title": "Un petit pas pour l’homme",
-            "description": "Le premier à poser les pieds sur Titan doit le faire en jetpack"
+            "description": "Le premier à poser les pieds sur Titan doit le faire en jetpack",
+            "type": "team"
         },
         {
             "title": "Sacrifice humain",
-            "description": "défi solo, provoquer indirectement la mort d’un collègue"
+            "description": "défi solo, provoquer indirectement la mort d’un collègue",
+            "type": "solo"
         },
         {
             "title": "Soyez témoins",
-            "description": "défi solo, mourir en sauvant un collègue"
+            "description": "défi solo, mourir en sauvant un collègue",
+            "type": "solo"
         },
         {
             "title": "Martyr public",
-            "description": "Nécessite un objet bruyant, le martyr, choisi démocratiquement (avec au moins une personne qui le regarde, sort de la base à 20h et rentre au vaisseau sans s’arrêter de faire du bruit)"
+            "description": "Nécessite un objet bruyant, le martyr, choisi démocratiquement (avec au moins une personne qui le regarde, sort de la base à 20h et rentre au vaisseau sans s’arrêter de faire du bruit)",
+            "type": "team"
         },
         {
             "title": "Même pas mal",
-            "description": "Ramer une ruche au vaiseeau sans que cela provoque de morts"
+            "description": "Ramer une ruche au vaiseeau sans que cela provoque de morts",
+            "type": "team"
         },
         {
             "title": "Mais fermez là",
-            "description": "Dès qu’il y a contact visuel avec un autre membre d’équipage, ne pas arrêter de parler"
+            "description": "Dès qu’il y a contact visuel avec un autre membre d’équipage, ne pas arrêter de parler",
+            "type": "team"
         },
         {
             "title": "Doomguy",
-            "description": "Nécessite 4 fusils, un membre d’équipage s’équipe que de fusils et accompagne les autres. Sa mission, tuer les monstres"
+            "description": "Nécessite 4 fusils, un membre d’équipage s’équipe que de fusils et accompagne les autres. Sa mission, tuer les monstres",
+            "type": "team"
         },
         {
             "title": "Même pas peur",
-            "description": "Quand un membre d’équipage aperçoit la fillette, il ne doit surtout pas crier et à la place, chanter une chanson joyeuse"
+            "description": "Quand un membre d’équipage aperçoit la fillette, il ne doit surtout pas crier et à la place, chanter une chanson joyeuse",
+            "type": "solo"
         },
         {
             "title": "Téléporteur warp",
-            "description": "Nécessite un téléporteur (destination : la base), tous les membres d’équipage doivent l’emprunter sans équipement aucun"
+            "description": "Nécessite un téléporteur (destination : la base), tous les membres d’équipage doivent l’emprunter sans équipement aucun",
+            "type": "team"
         },
         {
             "title": "Ce n’est qu’un au revoir",
-            "description": "En pleine éclipse, les membres d’équipage doivent partir seul à des intervalles de 2 heures chacun"
+            "description": "En pleine éclipse, les membres d’équipage doivent partir seul à des intervalles de 2 heures chacun",
+            "type": "team"
         },
         {
             "title": "C’est juste un prank bro",
-            "description": "Le plus loin possible du vaisseau mais toujours visible par les autres, un membre d’équipage doit se faire courser par un chien et en ressortir vivant"
+            "description": "Le plus loin possible du vaisseau mais toujours visible par les autres, un membre d’équipage doit se faire courser par un chien et en ressortir vivant",
+            "type": "solo"
         },
         {
             "title": "Un compte à régler",
-            "description": "L'équipage arrive à tuer un bracken sans fusil"
+            "description": "L'équipage arrive à tuer un bracken sans fusil",
+            "type": "team"
         },
         {
             "title": "Surprise mother fucker !",
@@ -70,15 +86,18 @@
         },
         {
             "title": "Vive le capitalisme",
-            "description": "celui qui a rapporté le moins d’argent en objets est laissé sur la planète"
+            "description": "celui qui a rapporté le moins d’argent en objets est laissé sur la planète",
+            "type": "team"
         },
         {
             "title": "Le plus gros connard de l’univers",
-            "description": "Tout l’équipage est vivant, un seul rentre en abandonnant tous les autres "
+            "description": "Tout l’équipage est vivant, un seul rentre en abandonnant tous les autres ",
+            "type": "team"
         },
         {
             "title": "Starlord",
-            "description": "défi solo, entamer une dans sous les yeux du bracken"
+            "description": "défi solo, entamer une dans sous les yeux du bracken",
+            "type": "solo"
         }
 
     ]
