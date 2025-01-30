@@ -1,0 +1,85 @@
+{
+    "data": [
+        {
+            "title": "Jack le tueur de géants",
+            "description": "L'équipage arrive à tuer un géant"
+        },
+        {
+            "title": "Je n’ai pas de bouche",
+            "description": "personne ne parle pendant toute une mission"
+        },
+        {
+            "title": "Potes pour la vie",
+            "description": "les membres font des binômes, ils ne doivent jamais se séparer, être assortis vestimentairement et ramener leur corps de leur collègue défunt ou sinon se suicider avec eux"
+        },
+        {
+            "title": "Jackpot",
+            "description": "Ramener 1000$ d'objets à la fin d'une mission"
+        },
+        {
+            "title": "Un petit pas pour l’homme",
+            "description": "Le premier à poser les pieds sur Titan doit le faire en jetpack"
+        },
+        {
+            "title": "Sacrifice humain",
+            "description": "défi solo, provoquer indirectement la mort d’un collègue"
+        },
+        {
+            "title": "Soyez témoins",
+            "description": "défi solo, mourir en sauvant un collègue"
+        },
+        {
+            "title": "Martyr public",
+            "description": "Nécessite un objet bruyant, le martyr, choisi démocratiquement (avec au moins une personne qui le regarde, sort de la base à 20h et rentre au vaisseau sans s’arrêter de faire du bruit)"
+        },
+        {
+            "title": "Même pas mal",
+            "description": "Ramer une ruche au vaiseeau sans que cela provoque de morts"
+        },
+        {
+            "title": "Mais fermez là",
+            "description": "Dès qu’il y a contact visuel avec un autre membre d’équipage, ne pas arrêter de parler"
+        },
+        {
+            "title": "Doomguy",
+            "description": "Nécessite 4 fusils, un membre d’équipage s’équipe que de fusils et accompagne les autres. Sa mission, tuer les monstres"
+        },
+        {
+            "title": "Même pas peur",
+            "description": "Quand un membre d’équipage aperçoit la fillette, il ne doit surtout pas crier et à la place, chanter une chanson joyeuse"
+        },
+        {
+            "title": "Téléporteur warp",
+            "description": "Nécessite un téléporteur (destination : la base), tous les membres d’équipage doivent l’emprunter sans équipement aucun"
+        },
+        {
+            "title": "Ce n’est qu’un au revoir",
+            "description": "En pleine éclipse, les membres d’équipage doivent partir seul à des intervalles de 2 heures chacun"
+        },
+        {
+            "title": "C’est juste un prank bro",
+            "description": "Le plus loin possible du vaisseau mais toujours visible par les autres, un membre d’équipage doit se faire courser par un chien et en ressortir vivant"
+        },
+        {
+            "title": "Un compte à régler",
+            "description": "L'équipage arrive à tuer un bracken sans fusil"
+        },
+        {
+            "title": "Surprise mother fucker !",
+            "description": "Un membre d’équipage prend discrètement le masque et le met à l’intérieur du vaisseau "
+        },
+        {
+            "title": "Vive le capitalisme",
+            "description": "celui qui a rapporté le moins d’argent en objets est laissé sur la planète"
+        },
+        {
+            "title": "Le plus gros connard de l’univers",
+            "description": "Tout l’équipage est vivant, un seul rentre en abandonnant tous les autres "
+        },
+        {
+            "title": "Starlord",
+            "description": "défi solo, entamer une dans sous les yeux du bracken"
+        }
+
+    ]
+}
